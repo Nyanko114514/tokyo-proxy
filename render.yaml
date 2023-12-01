@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: tokyo-pr0
+    name: banana-is-god-p
     env: docker
     plan: free
