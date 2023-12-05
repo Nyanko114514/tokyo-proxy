@@ -4,10 +4,6 @@
 
 東京プロキシ2→ https://github.com/konomi-tokyo/tokyo-proxy2
 
-勝手にサイト広めてる奴死ね。YUKI bbsで広めてる奴知ってるからな　@UBD2SC0←の馬鹿とか
-
-制作者に感謝もしねぇで広めてる奴ただの馬鹿だろｗ　IP抜き取られても知らんぞｗ
-
 to japanese people　
 
 If you use Google Translate, you may not understand (the translation language remains English)
