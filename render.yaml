@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: peely-is-god
+    name: banana-is-god-p
     env: docker
     plan: free
