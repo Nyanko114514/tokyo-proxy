@@ -1,6 +1,6 @@
 {
-    "name": "peely-no-share-my-custom-proxy",
-    "description": "peely-no-share-my-custom-proxy",
+    "name": "peely-proxy",
+    "description": "peely-proxy",
     "repository": "https://github.com/konomi-tokyo/tokyo-proxy.git",
     "logo": "",
     "keywords": ["tokyo-proxy", "proxy", "www"]
