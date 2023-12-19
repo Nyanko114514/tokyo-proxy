@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: peely-no-share-my-custom-proxy
+    name: Fortnite-is-god-p
     env: docker
     plan: free
